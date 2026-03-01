@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyTorch / ML
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# CSV / Numpy / données lourdes
+*.csv
+*.npy
+*.npz
+*.json
+
+# Images / vidéos
+frames/
+sample_data/
+*.mp4
+*.png
+*.avi
+*.mov
+
+# Logs
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
