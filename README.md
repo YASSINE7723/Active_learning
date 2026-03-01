@@ -1,4 +1,4 @@
-#  Eye Tracking & Active Learning : Adaptation au Changement de Domaine (Domain Shift)
+#  Eye Tracking & Active Learning 
 
  **Auteur :** Zerkani Yassine (ENSIM, Le Mans Université)
 
